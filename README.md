@@ -14,7 +14,7 @@ In my public profile you can find the following:
 - 🌱 I’m currently learning: SQL
 - 👯 I’m looking to collaborate on any projects relating to concept drift adaption in classification models
 - 💬 Ask me about any internship positions you are looking to fill
-- 📫 How to reach me: LinkedIn ![linkedin]([https://img.shields.io/badge/Linkedin-0e76a8?](https://www.linkedin.com/in/louis-chislett-4ba82919b/)style=for-the-badge&logo=Linkedin&logoColor=white)]
+- 📫 How to reach me: LinkedIn ![https://www.linkedin.com/in/louis-chislett-4ba82919b/](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 
 ![](https://komarev.com/ghpvc/?username=LouisChislett)
 
