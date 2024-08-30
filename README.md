@@ -7,7 +7,7 @@ Stay tuned for my upcoming PhD work AMUSE (Adaptive Model Updating using a Simul
 In my public profile you can find the following:
 * A convolutional neural network approach to [image classification](https://github.com/LouisChislett/Image_Classification_App), with an accompanying demonstration app
 * My competition entry to the [Wellcome Trust Ideathon 2023](https://wellcome.org/grant-funding/schemes/ideathon), where I lead a team to the semi-finals
-* A single cell analysis pipeline in which I build an ensemble model using cell images and gene expression data to classify cells based on their function
+* A [kaggle competion attempt](https://github.com/LouisChislett/Skin-Cancer-Detection/tree/main) which uses image and tabular data to classify instances of skin cancer
 
 
 - 🔭 I’m currently working on: AMUSE (Adaptive Model Updating using a Simulated Environment), in which I have come up with a new approach to updating models in the presence of concept drift using reinforcement learning.
