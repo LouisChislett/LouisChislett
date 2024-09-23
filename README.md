@@ -7,6 +7,7 @@ Stay tuned for my upcoming PhD work AMUSE (Adaptive Model Updating using a Simul
 In my public profile you can find the following:
 * A convolutional neural network approach to [image classification](https://github.com/LouisChislett/Image_Classification_App), with an accompanying demonstration app
 * My competition entry to the [Wellcome Trust Ideathon 2023](https://wellcome.org/grant-funding/schemes/ideathon), where I lead a team to the semi-finals
+* An example of [building a Bayesian linear regression model from scratch](https://github.com/LouisChislett/Bayesian_Linear_Regression_From_Scratch/tree/main) (i.e. no libraries used) using a metropolis-hastings sampler.
 * A [kaggle competion attempt](https://github.com/LouisChislett/Skin-Cancer-Detection/tree/main) which uses image and tabular data to classify instances of skin cancer
 
 
