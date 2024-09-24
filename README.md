@@ -5,10 +5,10 @@ I am Louis Chislett, a PhD student based at the university of Edinburgh part of 
 Stay tuned for my upcoming PhD work AMUSE (Adaptive Model Updating using a Simulated Environment), in which I have come up with a new approach to updating models in the presence of concept drift using reinforcement learning.
 
 In my public profile you can find the following:
-* A convolutional neural network approach to [image classification](https://github.com/LouisChislett/Image_Classification_App), with an accompanying demonstration app
-* My competition entry to the [Wellcome Trust Ideathon 2023](https://wellcome.org/grant-funding/schemes/ideathon), where I lead a team to the semi-finals
-* An example of [building a Bayesian linear regression model from scratch](https://github.com/LouisChislett/Bayesian_Linear_Regression_From_Scratch/tree/main) (i.e. no libraries used) using a metropolis-hastings sampler.
-* A [kaggle competion attempt](https://github.com/LouisChislett/Skin-Cancer-Detection/tree/main) which uses image and tabular data to classify instances of skin cancer
+* [Image Classification App](https://github.com/LouisChislett/Image_Classification_App): A convolutional neural network (CNN) approach to image classification with an accompanying demonstration app
+* [Wellcome Trust Ideathon App](https://github.com/LouisChislett/WellcomeIdeathon2023): My competition entry to the [Wellcome Trust Ideathon 2023](https://wellcome.org/grant-funding/schemes/ideathon), where I lead a team to the semi-finals. This R Shiny app uses NLP techniques to build a dashboard which tracks trends in COVID-19 misinformation on twitter for the duration of the pandemic
+* [Bayesian linear regression model from scratch](https://github.com/LouisChislett/Bayesian_Linear_Regression_From_Scratch/tree/main): An example of a bayesian linear regression model, built from scratch (i.e. no libraries used) using a metropolis-hastings sampler.
+* [Skin cancer Detection](https://github.com/LouisChislett/Skin-Cancer-Detection/tree/main): The [ISIC 2024t](https://www.kaggle.com/competitions/isic-2024-challenge) Kaggle competition. This example of multi-modal learning builds a neural network which takes as input image and tabular data, eventually concatenating layers and predicting skin cancer incidence.
 
 
 - 🔭 I’m currently working on: AMUSE (Adaptive Model Updating using a Simulated Environment), in which I have come up with a new approach to updating models in the presence of concept drift using reinforcement learning.
