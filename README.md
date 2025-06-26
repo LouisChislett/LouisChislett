@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Louis Chislett, a PhD student based at the university of Edinburgh part of the HDRUK/Alan Turing Institute PhD programme in health data science. My research interests are broad, covering areas in machine learning including Deep Reinforcement Learning, classification and neural networks. My academic research currently exists in private repositories pending publications (where it will be made public), while mini-projects which I have undertaken can be perused at your leisure.
+I am Louis Chislett, a PhD student based at the University of Edinburgh part of the HDRUK/Alan Turing Institute PhD programme in health data science. My research interests are broad, covering areas in machine learning including Deep Reinforcement Learning, classification and neural networks. My academic research currently exists in private repositories pending publications (where it will be made public), while mini-projects which I have undertaken can be perused at your leisure.
 
 Stay tuned for my upcoming PhD work [AMUSE](https://arxiv.org/abs/2412.10119) (Adaptive Model Updating using a Simulated Environment), in which I have come up with a new approach to updating models in the presence of concept drift using reinforcement learning.
 
