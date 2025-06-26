@@ -12,11 +12,11 @@ In my public profile you can find the following:
 * [A customer segmentation app](https://github.com/LouisChislett/customerSegmentation): A streamlit app (and accompanying jupyter notebook) for customer segmentation and profiling for a retail dataset. Here I use unsupervised learning (K-means clustering and PCA) to develop customer profiles for a retail platform. The app contains an interactive UI which allows the user to understand the different profiles, and the recommended marketing strategies. - IN PROGRESS
 
 
-- 🔭 I’m currently working on: [AMUSE](https://arxiv.org/abs/2412.10119) (Adaptive Model Updating using a Simulated Environment), in which I have come up with a new approach to updating models in the presence of concept drift using reinforcement learning.
-- 🌱 I’m currently learning: SQL
-- 👯 I’m looking to collaborate on any projects relating to concept drift adaption in classification models
-- 💬 Ask me about any internship positions you are looking to fill
-- 📫 How to reach me: [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-chislett-4ba82919b/)
+- I’m currently working on: [AMUSE](https://arxiv.org/abs/2412.10119) (Adaptive Model Updating using a Simulated Environment), in which I have come up with a new approach to updating models in the presence of concept drift using reinforcement learning.
+- I’m currently learning: SQL
+- I’m looking to collaborate on any projects relating to concept drift adaption in classification models
+- Ask me about any internship positions you are looking to fill
+- How to reach me: [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-chislett-4ba82919b/)
 
 ![](https://komarev.com/ghpvc/?username=LouisChislett)
 
