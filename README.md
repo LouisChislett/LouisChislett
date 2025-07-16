@@ -1,4 +1,4 @@
-## Hi there 👋
+# About Me
 
 I am Louis Chislett, a PhD student based at the University of Edinburgh part of the HDRUK/Alan Turing Institute PhD programme in health data science. My research interests are broad, covering areas in machine learning including Deep Reinforcement Learning, classification and neural networks. My academic research currently exists in private repositories pending publications (where it will be made public), while mini-projects which I have undertaken can be perused at your leisure.
 
